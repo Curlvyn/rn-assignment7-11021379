@@ -18,7 +18,7 @@ const CustomDrawerContent = (props) => {
         <Image source={Close} style={{width: 40, height: 40}} /> 
       </TouchableOpacity>
       <View style={{paddingTop: 20, paddingLeft: 15, display: 'flex', flexDirection: 'column', marginBottom: 20}}>
-        <Text style={{fontSize: 25, letterSpacing: 3}}>AMEHE</Text>
+        <Text style={{fontSize: 25, letterSpacing: 3}}>KELVIN</Text>
         <View style={{height: 1, width: 150, backgroundColor: 'orange', marginLeft: 15}}/>
       </View>
       <DrawerItemList {...props} />

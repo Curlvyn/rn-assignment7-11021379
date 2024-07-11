@@ -95,7 +95,7 @@ const CartScreen = ({route}) => {
       />
         <View style={{display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexDirection: 'row'}}>
             <Text style={{fontSize: 16, letterSpacing: 5}}>EST. TOTAL: </Text>
-            <Text style={{fontSize: 22, letterSpacing: 6, color: 'red'}}>$240</Text>
+            <Text style={{fontSize: 22, letterSpacing: 6, color: 'red'}}>$79.98</Text>
         </View>
     </View>
         <TouchableOpacity onPress={() => alert('Checkout successful')} style={{backgroundColor: 'black', display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'row', padding: 20, gap: 10}}>
