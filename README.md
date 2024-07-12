@@ -9,19 +9,6 @@ A React Native application that allows users to explore a curated collection of 
 - Add products to the cart
 - Remove products from the cart
 
-## Installation
-
-1. Clone this repository:
-   git clone https://github.com/ Curlvyn/rn-assignment7-11021379.git
-
-
-2. Install dependencies:
-   cd rn-assignment7-11021379
-   npm install
-
-3. Run the app:
-   npm start
-
 ## Screenshots
 ![Screenshot 1](https://github.com/user-attachments/assets/e5f97402-abda-4214-a08e-e2471f8a6fcd)
 ![Screenshot 2](https://github.com/user-attachments/assets/5118e27d-1f9b-4a4d-aa74-a550ccdc4faa)
