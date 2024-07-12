@@ -1,4 +1,4 @@
-![Screenshot 7](https://github.com/user-attachments/assets/c0d86ab8-f132-48cc-879f-6f8c31363191)![Screenshot 7](https://github.com/user-attachments/assets/8eb4c04c-3395-4872-a9a5-c9d89847290e)![Screenshot 2](https://github.com/user-attachments/assets/298d51b2-4910-46c9-ab05-90bb929b3946)# rn-assignment7-11021379
+# rn-assignment7-11021379
 ## Overview
 A React Native application that allows users to explore a curated collection of products. It integrates with an external API to fetch product data and provides a smooth user experience.
 
